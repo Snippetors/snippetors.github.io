@@ -10,7 +10,7 @@ externalIcon: false
 
 This plugin is inspired by [vuepress-plugin-code-copy](https://github.com/znicholasbrown/vuepress-plugin-code-copy), but for Vue 3.x and VuePress 2.x
 
-==VuePress is evolving rapidly, and there's no stable version yet. This plugin is only tested with VuePress version 2.0.0-beta.25==
+<mark>VuePress is evolving rapidly, and there's no stable version yet. This plugin is only tested with VuePress version 2.0.0-beta.60</mark>
 
 ## Install
 
@@ -22,9 +22,13 @@ yarn add -D @snippetors/vuepress-plugin-code-copy
 
 ```js
 // .vuepress/config.js
-module.exports = {
-  plugins: ["@snippetors/vuepress-plugin-code-copy", options],
-};
+import codeCopyPlugin from '@snippetors/vuepress-plugin-code-copy'
+
+export default {
+  plugins: [
+    codeCopyPlugin(options),
+  ],
+}
 ```
 
 <!-- todo -->
