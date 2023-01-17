@@ -210,14 +210,14 @@
     fastq "^1.6.0"
 
 "@snippetors/vuepress-plugin-code-copy@^1.2.0":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@snippetors/vuepress-plugin-code-copy/-/vuepress-plugin-code-copy-1.2.1.tgz#4fd5a8ab03a75e0ca25d85236eb176407705cea7"
-  integrity sha512-qT4PLFo0G3+Y3opPTIIMc7kIYczAgvccImheI0nFMfNqWNzsRnsB/yuXRY2yhmVJfch7ix9QyG5XL7f1O8Y3Uw==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@snippetors/vuepress-plugin-code-copy/-/vuepress-plugin-code-copy-1.2.3.tgz#4cc5f7ef7530ff6654786f6baa2e15ca4ffb8b14"
+  integrity sha512-PiUbhlYseY4UqsE/ike/Up27GkrbHvR7OJqV5nlmHEW141uWcrVaBZsBS870ckqNF+vd2fk8g4TyoiHvxaUzSg==
 
 "@snippetors/vuepress-plugin-tabs@^1.2.0":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@snippetors/vuepress-plugin-tabs/-/vuepress-plugin-tabs-1.2.1.tgz#451b0882df14dd6721b11dea0d5f684987962443"
-  integrity sha512-HzqtV2EIsjHy9iaSWdmV2hKhW7j74Obcmplc492pjUSajnqpQmcGVAYOyezJ6rReBmUGRcZKxBpKDawg33OWrQ==
+  version "1.2.3"
+  resolved "https://registry.yarnpkg.com/@snippetors/vuepress-plugin-tabs/-/vuepress-plugin-tabs-1.2.3.tgz#a4d6552b1c3215c6f0231216b443f77db80b9854"
+  integrity sha512-rRaDmNYbI+zMEffFRzRjlmoZDDaRTes1oTYvzY/6gE4VFEy8HcJ1paAM/YpLkdy/9KWJGv9tqUA7f8/Z55QpZQ==
   dependencies:
     resize-observer-polyfill "^1.5.1"
 
